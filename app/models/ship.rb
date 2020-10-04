@@ -7,4 +7,13 @@ class Ship
     @type = type 
     @booty = booty 
   end 
+  
+  def self.all 
+   @@all   
+  end 
+  
+  def self.clear 
+    
+  end 
+  
 end
