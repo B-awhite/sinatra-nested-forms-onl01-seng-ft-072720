@@ -8,9 +8,9 @@ module FormsLab
       erb :"/instructions"
     end 
     
-    get "/new" do 
+    # get "/new" do 
       
-    end 
+    # end 
 
   end
 end
